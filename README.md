@@ -1,6 +1,7 @@
 # NeXT-Project
 
-1. need to run npm install to both file for server and nextproject
-2. run server first by using command node index.js
-3. run the nextproject by using command npm start
-4. Its Done.
+1.Clone this project
+2. need to run npm install to nextproject.
+3. run server first by using command node index.js
+4. run the nextproject by using command npm start
+5. Its Done.
